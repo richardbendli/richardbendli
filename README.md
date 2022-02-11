@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Richard
 
-💻 I’m currently learning HTML, CSS, JavaScript!<1br>
+💻 I’m currently learning HTML, CSS, JavaScript!<br>
 💻 I use arch linux as daily driver.
 I 💙 martial arts, cooking 
 
