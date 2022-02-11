@@ -1,9 +1,6 @@
 ### Hi there, 👋 I'm Richard
 
 💻 I’m currently learning HTML, CSS, JavaScript!<br>
-💻 I use arch linux as daily driver.
-I 💙 martial arts, cooking 
-
 
 <!--
 **richardbendli/richardbendli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
