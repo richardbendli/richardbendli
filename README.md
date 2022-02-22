@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Richard
 
-##💻 I’m currently learning HTML, CSS, JavaScript!<br>
+## 💻 I’m currently learning HTML, CSS, JavaScript!<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbendli)](https://github.com/anuraghazra/github-readme-stats)
 
