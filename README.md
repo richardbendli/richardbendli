@@ -2,6 +2,12 @@
 
 ### 💻 I’m currently learning HTML, CSS, JavaScript!<br>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<richardbendli>&theme=<green>" />
+
+
+<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbendli)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
