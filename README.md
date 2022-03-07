@@ -3,7 +3,7 @@
 ### 💻 I’m currently learning HTML, CSS, JavaScript!<br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<hide>/?username=<richardbendli>&theme=<dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=<richardbendli>&theme=<dark>" />
 
 
 <!--
