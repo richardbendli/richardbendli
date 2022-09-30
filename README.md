@@ -38,26 +38,3 @@
 </a></p>
 
 ---
-
-
-
-<!--
-**richardbendli/richardbendli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-image to use in readme!!  below link
-![Development](https://github.com/richardbendli)
-or
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
