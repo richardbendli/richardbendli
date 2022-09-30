@@ -31,7 +31,7 @@
 
 <p>
 <a href="https://wakatime.com/@richardbendli">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@richardbendli/2467e444-4fa2-4a10-908b-46b94d3a9b45/3e633130-2319-487f-9a62-1c4b128c6b6a.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@richardbendli/a456e216-3455-4e5a-9181-65dfbc0fa868.svg" />
 </a></p>
 
 <!--
