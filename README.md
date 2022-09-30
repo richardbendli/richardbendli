@@ -51,7 +51,6 @@ or
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
