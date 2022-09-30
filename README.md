@@ -34,6 +34,13 @@
   <img align="center" width="1100" height="400" src="https://wakatime.com/share/@richardbendli/5a3f8e21-ad7f-4d52-899c-33e87bb38aba.svg" />
 </a></p>
 
+---
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardbendli&show_icons=true&theme=tokyonight" />
+</a></p>
+
+
 <!--
 **richardbendli/richardbendli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
