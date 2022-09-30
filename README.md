@@ -27,6 +27,7 @@
 
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbendli)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 <figure><embed src="https://wakatime.com/share/@2467e444-4fa2-4a10-908b-46b94d3a9b45/3e633130-2319-487f-9a62-1c4b128c6b6a.svg"></embed></figure>
 
