@@ -2,7 +2,7 @@
 
 ### 💻 I’m currently learning Web development!<br>
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611dcd6d443e9d0cdef3e80d22a9ec93179ce17c193&rid=giphy.gif&ct=g" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611dcd6d443e9d0cdef3e80d22a9ec93179ce17c193&rid=giphy.gif&ct=g" width="300" height="270" />
 #
 
 ### 🧰 Languages and Tools
