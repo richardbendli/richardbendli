@@ -34,12 +34,12 @@
 
 <p>
 <a href="https://wakatime.com/@richardbendli">
-  <img src="https://wakatime.com/share/@richardbendli/5a3f8e21-ad7f-4d52-899c-33e87bb38aba.svg" />
+  <img align="left" src="https://wakatime.com/share/@richardbendli/5a3f8e21-ad7f-4d52-899c-33e87bb38aba.svg" />
 </a></p>
 
 <p>
 <a href="https://wakatime.com/@richardbendli">
-  <img src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
+  <img align="right" src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
 </a></p>
 
 
