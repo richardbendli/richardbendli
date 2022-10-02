@@ -39,7 +39,7 @@
 
 <p>
 <a href="https://wakatime.com/@richardbendli">
-  <img align="center" src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
+  <img src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
 </a></p>
 
 
