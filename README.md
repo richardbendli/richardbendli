@@ -2,11 +2,11 @@
 
 ### Hi there, 👋 I'm Richard
 
-### 💻 I’m currently learning Web development!<br>
+#### 💻 I’m currently learning Web development!<br>
 
 #
 
-### 🧰 Languages and Tools
+#### 🧰 Languages and Tools
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
@@ -26,7 +26,7 @@
 
 #
 
-### 📊 Stats
+#### 📊 Stats
 
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
