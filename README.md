@@ -1,13 +1,9 @@
-#
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Richard;💻+I'm+currently+learning+web+development)](https://git.io/typing-svg)
 
 #
 
-#### 🧰 Languages and Tools
-
+### 🧰 Languages and Tools
 <br>
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,10 +19,11 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
 <br>
+<br>
 
 #
 
-#### 📊 Stats
+### 📊 Stats
 
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
