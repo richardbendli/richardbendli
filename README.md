@@ -40,7 +40,6 @@
 </a></p>
 
 <br>
----
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" alt="Oops!" src="https://profile-counter.glitch.me/{richardbendli}/count.svg" /></p>
