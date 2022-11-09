@@ -1,13 +1,12 @@
-<!-- ![Banner Image](https://github.com/richardbendli) -->
+#
 
-### Hi there, 👋 I'm Richard
-
-#### 💻 I’m currently learning Web development!<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Richard;💻+I'm+currently+learning+web+development)](https://git.io/typing-svg)
 
 #
 
 #### 🧰 Languages and Tools
 
+<br>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -23,6 +22,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
+<br>
 
 #
 
@@ -35,17 +35,27 @@
 
 <a href = "url"><img src="" alt="" height="auto" width="" style="border-radius:50%">
 
----
-
 <p>
 <a href="https://wakatime.com/@richardbendli">
   <img align="center" width="1100" height="350" src="https://wakatime.com/share/@richardbendli/5a3f8e21-ad7f-4d52-899c-33e87bb38aba.svg" />
 </a></p>
+
+<br>
 
 <p>
 <a href="https://wakatime.com/@richardbendli">
   <img align="center" width="1100" height=350" src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
 </a></p>
 
+<br>
+
+
+---
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{richardbendli}/count.svg" /></p>
+<br>
+</div>
 
 ---
