@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Richard;💻+I'm+currently+learning+web+development)](https://git.io/typing-svg)
  -->
  [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+💻+I'm+Richard;)](https://git.io/typing-svg)
- 
+
 #
 
 ### 🧰 Languages and Tools:
@@ -36,10 +36,10 @@
   <img align="center" alt="Oops!" width="1100" height="350" src="https://wakatime.com/share/@richardbendli/5a3f8e21-ad7f-4d52-899c-33e87bb38aba.svg" />
 </a></p>
 <br>
-<!-- <p>
+<p>
 <a href="https://wakatime.com/@richardbendli">
   <img align="center" alt="Oops!" width="1100" height=350" src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
-</a></p> -->
+</a></p>
 
 <br>
 <div align="center">
