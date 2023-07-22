@@ -1,8 +1,8 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br><br>
 
 <p align="center">
-<img src="keyb.jpg" width=650 style="border-radius:0.3rem"/>
-</p><br>
+<a href = "url"><img src="./keyb.jpg" alt="" height="auto" width="" style="border-radius:0.3rem"></a>
+</p>
 
 #
 
@@ -22,7 +22,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br><br>
 
 #
-
 
 #### 📊 Stats
 
