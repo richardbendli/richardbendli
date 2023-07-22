@@ -1,51 +1,50 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Richard;💻+I'm+currently+learning+web+development)](https://git.io/typing-svg)
- -->
- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+💻+I'm+Richard;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br><br>
+
+<p align="center">
+<img src="keyb.jpg" width=650 style="border-radius:0.3rem"/>
+</p><br>
 
 #
 
 ### 🧰 Languages and Tools:
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="Oops!" width="30px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<br />
-<br>
-<br>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230047B3.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)<br><br>
 
 #
 
-### 📊 Stats
 
+#### 📊 Stats
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardbendli&show_icons=true&theme=slateorange" />
-</a></p>
-<a href = "url"><img src="" alt="" height="auto" width="" style="border-radius:50%">
-<p>
-<a href="https://wakatime.com/@richardbendli">
-  <img align="center" alt="Oops!" width="1100" height="350" src="https://wakatime.com/share/@richardbendli/5a3f8e21-ad7f-4d52-899c-33e87bb38aba.svg" />
-</a></p>
-<br>
-<!-- <p>
-<a href="https://wakatime.com/@richardbendli">
-  <img align="center" alt="Oops!" width="1100" height=350" src="https://wakatime.com/share/@richardbendli/cafa7b4b-5aed-48a8-a22a-550b78053ae1.svg" />
-</a></p> -->
+</a>
+</p>
+<a href = "url"><img src="" alt="" height="auto" width="" style="border-radius:50%"></a>
 
-<br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" alt="Oops!" src="https://profile-counter.glitch.me/{richardbendli}/count.svg" /></p>
-<br>
-</div>
+#
 
----
+#### Contacts
+
+[![](https://shields.io/static/v1?logo=github&logoColor=white&labelColor=2d333b&style=flat-square&message=Discussion&color=161b22&label=GitHub)](https://github.com/richardbendli/richardbendli/discussions/1)
+[![](https://shields.io/static/v1?logo=reddit&logoColor=orange&labelColor=2d333b&style=flat-square&message=___patch___&color=orange&label=Reddit)](https://www.reddit.com/message/compose/?to=___patch___)
+[![](https://shields.io/static/v1?logo=linkedin&logoColor=blue&labelColor=2d333b&style=flat-square&message=RichardBendli&color=30a5dd&label=LinkedIn)](https://www.linkedin.com/in/richardbendli)
+[![](https://shields.io/static/v1?logo=linux&logoColor=blue&labelColor=2d333b&style=flat-square&message=website&color=30a5dd&label=my)](https://www.richardbendli.com)<br>
+
+#
+
+#### Projects
+
+👇 Below are a few projects that I've been working on.
+
+#
