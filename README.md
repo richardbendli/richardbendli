@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br><br>
 
 <p align="center">
-<a href = "url"><img src="./keyb.jpg" alt="" height="auto" width="" style="border-radius:0.3rem"></a>
+<img src="https://github.com/richardbendli/richardbendli/assets/93144317/d4c8edb4-6389-4b3d-953f-b1841d555715" alt="" width=650 style="border-radius:0.3rem"/>
 </p>
 
 #
@@ -29,7 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardbendli&show_icons=true&theme=slateorange" />
 </a>
 </p>
-<a href = "url"><img src="" alt="" height="auto" width="" style="border-radius:50%"></a>
 
 #
 
