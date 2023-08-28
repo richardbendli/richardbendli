@@ -1,8 +1,8 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br><br>
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br>
 
-<p align="center">
-<img src="https://github.com/richardbendli/richardbendli/assets/93144317/d4c8edb4-6389-4b3d-953f-b1841d555715" alt="" width=650 style="border-radius:0.3rem"/>
-</p>
+|  |  |
+| :---: | :---: |
+| ![front](./img/sweep_front.png) | ![back](./img/sweep_back.png) |
 
 #
 
