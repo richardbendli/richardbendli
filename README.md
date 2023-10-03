@@ -1,10 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br>
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3d68e0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+💻+I'm+Richard;)](https://git.io/typing-svg)<br><br>
 
-|  |  |
-| :---: | :---: |
-| ![front](./img/sweep_front.png) | ![back](./img/sweep_back.png) |
-
-#
+![Corne](./img/kb.png)
 
 ### 🧰 Languages and Tools:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
