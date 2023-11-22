@@ -16,10 +16,13 @@
 
 #### 📊 Stats
 
-<p align="center"><a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardbendli&show_icons=true&include_all_commits=true&theme=slateorange&border_radius=10" />
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardbendli&show_icons=true&theme=github_dark_dimmed" />
 </a>
-</p>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardbendli&theme=github_dark_dimmed&layout=compact" />
+</a>
 
 #
 
@@ -32,11 +35,5 @@
 
 #
 
-#### Projects
-
-👇 Below are a few projects that I've been working on.
-
-#
-
-
-
+<br>
+<div align="center">👇 Below are a few projects that I've been working on.</div>
