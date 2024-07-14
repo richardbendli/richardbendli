@@ -16,9 +16,13 @@
 
 #### 📊 Stats
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+#### Now I'm cool too 😎
+
+![Stats](./img/github-stats.png)
+
+<!-- <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardbendli&show_icons=true&theme=github_dark_dimmed" />
-</a>
+</a> -->
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardbendli&theme=github_dark_dimmed&layout=compact" />
