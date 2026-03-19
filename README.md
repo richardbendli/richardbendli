@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=markdown,html,css,javascript,git,github,bash,lua,py,neovim,nginx,kali,linux,vscode,docker,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=markdown,html,css,javascript,git,github,bash,lua,py,neovim,nginx,kali,linux,vscode,docker,raspberrypi,aws" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 [![](https://shields.io/static/v1?logo=github&logoColor=white&labelColor=2d333b&style=flat-square&message=Discussion&color=161b22&label=GitHub)](https://github.com/richardbendli/richardbendli/discussions/1)
 [![](https://shields.io/static/v1?logo=reddit&logoColor=orange&labelColor=2d333b&style=flat-square&message=___patch___&color=orange&label=Reddit)](https://www.reddit.com/message/compose/?to=___patch___)
 [![](https://shields.io/static/v1?logo=linkedin&logoColor=blue&labelColor=2d333b&style=flat-square&message=RichardBendli&color=30a5dd&label=LinkedIn)](https://www.linkedin.com/in/richardbendli)
-[![](https://shields.io/static/v1?logo=linux&logoColor=blue&labelColor=2d333b&style=flat-square&message=website&color=30a5dd&label=my)](https://www.richardbendli.com)<br>
+<!-- [![](https://shields.io/static/v1?logo=linux&logoColor=blue&labelColor=2d333b&style=flat-square&message=website&color=30a5dd&label=my)](https://www.richardbendli.com)<br> -->
 
 #
 
